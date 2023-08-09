@@ -1,4 +1,4 @@
-const answers = {
+export const answers = {
 "Eau De _____ is a popular brand of Perfume":	"neo",
 "___ ___ Farms":	"kau",
 "___ 9000; Space Petpet":	"vacumatic",
@@ -3044,5 +3044,3 @@ const answers = {
 "Zygorax patrols in an X-Scrub 4000 Walker _____":	"bot",
 "Zygorax patrols space in an X-Scrub 4000 _____ Bot":	"walker",
 };
-
-export default answers;
