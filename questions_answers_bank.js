@@ -3044,3 +3044,5 @@ const answers = {
 "Zygorax patrols in an X-Scrub 4000 Walker _____":	"bot",
 "Zygorax patrols space in an X-Scrub 4000 _____ Bot":	"walker",
 };
+
+export default answers;
