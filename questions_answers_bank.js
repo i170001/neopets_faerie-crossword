@@ -1,4 +1,4 @@
-export const answers = {
+const answers = {
 "Eau De _____ is a popular brand of Perfume":	"neo",
 "___ ___ Farms":	"kau",
 "___ 9000; Space Petpet":	"vacumatic",
