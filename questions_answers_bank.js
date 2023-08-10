@@ -1049,7 +1049,6 @@ const answers = {
 "Flower on Scorchio Folk Dancer Head Scarf":	"rose",
 "Flowers on the cover of Dry Flower Decor":	"ten",
 "Fluff Be ___":	"gone",
-"Fluffy Faerie Petpet; don\'t feed it carrots!":	"floud",
 "Fluffy Faerie Petpet; don't feed it carrots!":	"floud",
 "Flying ___ and potatoes; Extreme Potato Counter":	"carrots",
 "Flying Tyrannian Petpet":	"airax",
