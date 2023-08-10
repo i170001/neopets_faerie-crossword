@@ -2435,7 +2435,7 @@ const answers = {
 "Terrorizes Petpets in Extreme Herder":	"balthazar",
 "Test Your ___; run by Arnold":	"strength",
 "Thanks to a Hissi at the Pound, you can ____ Neopets":	"transfer",
-"The "F" in Dr. F. Sloth":	"frank",
+"The \"F\" in Dr. F. Sloth":	"frank",
 "The ___ Blue Blumaroo Book":	"big",
 "The ___ Faerie, also called Kari":	"negg",
 "The ___ for the Red Gelert":	"hunt",
